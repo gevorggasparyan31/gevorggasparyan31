@@ -3,6 +3,7 @@
 
 Passionate full-stack developer with 2+ years of experience in Node.js, Nest.js, Express.js, Hapi.js, and modern JavaScript frameworks like React.js, Vue.js, and Next.js. Skilled in designing and optimizing RESTful APIs, GraphQL, and working with relational (MySQL, PostgreSQL, SQLite) and NoSQL (MongoDB, Redis) databases.
 
+
 - Tech Stack:
 
 Backend: Node.js, Nest.js, Express.js, Hapi.js, GraphQL
@@ -15,7 +16,11 @@ DevOps & Tools: Docker, AWS Lambda, Nginx, GitLab CI/CD, Apache, Vagrant
 
 APIs & Integrations: OpenAI (ChatGPT), Stripe, PayPal, Twilio, Chrome API
 
-📫 Let’s Connect! gasparyan3101@gmail.com
+<p align="center">
+  <a href="https://www.gevorggasparyan.dev" target="_blank">🌐 Visit my Portfolio</a> |
+  <a href="mailto:gasparyan3101@gmail.com">📫 Let's Connect!</a>
+</p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
